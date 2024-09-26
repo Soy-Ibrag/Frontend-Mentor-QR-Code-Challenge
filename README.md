@@ -12,7 +12,7 @@ I was tasked with building a responsive QR code component based on a design prov
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Challenge Link](https://soy-ibrag.github.io/Frontend-Mentor-QR-Code-Challenge/)
 
 ### Built with
 
