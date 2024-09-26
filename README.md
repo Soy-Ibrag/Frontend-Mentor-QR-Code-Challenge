@@ -42,4 +42,4 @@ In future projects, I want to continue improving on:
 
 ## Acknowledgments
 
-A big shoutout to @luqmanx1998 for providing helpful resources and support during this challenge!
+A big shoutout to [@luqmanx1998](https://github.com/luqmanx1998) for providing helpful resources and support during this challenge!
