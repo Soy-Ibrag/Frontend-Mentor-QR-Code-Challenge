@@ -8,7 +8,7 @@ I was tasked with building a responsive QR code component based on a design prov
 
 ### Screenshot
 
-![../images/QR-Code_Challenge.png](./screenshot.png)
+![images/QR-Code_Challenge.png](./screenshot.png)
 
 ### Links
 
